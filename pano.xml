@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node73" apprev="20986" appversion="7.1.8">
+  <panorama id="node73">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="158.096">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="121.51" tilt="-1.91" projection="4" pan="-49.76"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 12:04" altitude="0.00" longitude="" info="" comment="" title="客廳" tags="" heading="158.096" latitude="" description="多處壁癌、門口邊牆貼紙黏膠需清除 、窗戶紗窗清潔、窗戶滑輪卡死、牆面髒污" author="" nodeid="node73" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point03" title="插座破損" tilt="-22.46" url="images/5-1.jpeg" skinid="ht_image" pan="-359.06" description="" target=""/>
+      <hotspot id="Point04" title="牆面壁癌" tilt="-19.45" url="images/2-1.jpeg" skinid="ht_image" pan="-24.6" description="" target=""/>
+      <hotspot id="Point05" title="牆面壁癌" tilt="-11.42" url="images/3-3.jpeg" skinid="ht_image" pan="-51.03" description="" target=""/>
+      <hotspot id="Point06" title="牆面壁癌" tilt="-21.96" url="images/d.jpeg" skinid="ht_image" pan="-69.54" description="" target=""/>
+      <hotspot id="Point07" title="牆面壁癌" tilt="-0.77" url="images/2-2.jpeg" skinid="ht_image" pan="-253.02" description="" target=""/>
+      <hotspot id="Point08" title="牆面壁癌" tilt="-16.92" url="images/3-4.jpeg" skinid="ht_image" pan="-252.1" description="" target=""/>
+      <hotspot id="Point09" title="牆面壁癌" tilt="-26.99" url="images/1-3.jpeg" skinid="ht_image" pan="-254.61" description="" target=""/>
+      <hotspot id="Point01" title="一樓樓梯口" tilt="-0.61" url="{node97}" skinid="ht_node" pan="-71.14" description="" target="$fwd"/>
+      <hotspot id="Point02" title="殘膠清理" tilt="-1.67" url="" skinid="ht_info" pan="-191.57" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node97">
+    <input levelbiashidpi="1.000" overlap="1" width="2500" height="2500" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node97/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2500" height="2500" predecode="0"/>
+      <level preload="0" width="1250" height="1250" predecode="0"/>
+      <level preload="0" width="625" height="625" predecode="0"/>
+      <level preload="1" width="312" height="312" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="367.456">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="copyright by JP image studio" customnodeid="" datetime="2025/7/1 11:44" altitude="13.39" longitude="" info="" comment="" title="一樓樓梯口" tags="" heading="367.456" latitude="" description="記錄交接時全屋況" author="" nodeid="node97" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="廚房" tilt="-0.66" url="{node76}" skinid="ht_node" pan="-160.75" description="" target="$fwd"/>
+      <hotspot id="Point02" title="客廳" tilt="-1.25" url="{node73}" skinid="ht_node" pan="-9.31" description="" target="$fwd"/>
+      <hotspot id="Point03" title="一樓廁所" tilt="-2.48" url="{node98}" skinid="ht_node" pan="-92.75" description="" target="-90.4/-0.7/130.0"/>
+      <hotspot id="Point05" title="2F樓梯間" tilt="12.01" url="{node80}" skinid="ht_node" pan="-68.29" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node98">
+    <input levelbiashidpi="1.000" overlap="1" width="2500" height="2500" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node98/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2500" height="2500" predecode="0"/>
+      <level preload="0" width="1250" height="1250" predecode="0"/>
+      <level preload="0" width="625" height="625" predecode="0"/>
+      <level preload="1" width="312" height="312" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="391.584">
+      <start fov="130" tilt="-0.57" projection="4" pan="-93.32"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="copyright by JP image studio" customnodeid="" datetime="2025/7/1 13:03" altitude="12.44" longitude="" info="" comment="" title="一樓廁所" tags="" heading="391.584" latitude="" description="紗窗髒污、坎燈損壞（三盞壞兩盞）、天花板發霉、原洗水槽已拆除、防盜器斷線、磁磚龜裂" author="" nodeid="node98" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="一樓樓梯口" tilt="-1.02" url="{node97}" skinid="ht_node" pan="-271.27" description="" target="$fwd"/>
+      <hotspot id="Point05" title="磁磚龜裂" tilt="-7.48" url="" skinid="ht_info" pan="-168.52" description="" target=""/>
+      <hotspot id="Point03" title="坎燈故障、防盜器斷線" tilt="25.6" url="" skinid="ht_info" pan="-55.2" description="" target=""/>
+      <hotspot id="Point04" title="天花板發霉" tilt="48.93" url="" skinid="ht_info" pan="-95.96" description="" target=""/>
+      <hotspot id="Point06" title="已重新粉刷區域" tilt="71.5" url="" skinid="ht_info" pan="-237.74" description="" target=""/>
+      <hotspot id="Point02" title="原洗臉槽已被前租客拆除更換成目前款式" tilt="-24.53" url="" skinid="ht_info" pan="-132.51" description="原洗臉槽已被前租客清除。" target=""/>
+    </hotspots>
+    <media>
+      <image fov="97.738" handcursor="0" roty="-3.765" tilt="80.258" rotx="11.381" rotz="17.399" width="4032" height="3024" stretch="0.687" id="Element01" popbackmode="0" popoutscaling="100" pan="-109.861" hidepinned="0" clickmode="0">
+        <source url="media/restroom_07.jpeg"/>
+      </image>
+      <image fov="64.290" handcursor="0" roty="30.870" tilt="-0.780" rotx="-8.640" rotz="1.570" width="2400" height="2112" stretch="1.289" id="Element02" popbackmode="0" popoutscaling="100" pan="-54.740" hidepinned="0" clickmode="0">
+        <source url="media/IMG_0481.jpeg"/>
+      </image>
+      <image fov="70.180" handcursor="0" roty="-20.230" tilt="-39.390" rotx="-22.490" rotz="-19.890" width="2763" height="2445" stretch="1.210" id="Element03" popbackmode="0" popoutscaling="100" pan="-122.810" hidepinned="0" clickmode="0">
+        <source url="media/IMG_0479.jpeg"/>
+      </image>
+    </media>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node76">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="269.726">
+      <start fov="130" tilt="-9.23" projection="4" pan="-179.86"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 12:17" altitude="0.00" longitude="" info="" comment="" title="廚房" tags="" heading="269.726" latitude="" description="ˋ牆面髒污、壁癌、系統櫃門板受潮變形掉落（呂姐同意拆除）、檯面油污、抽油煙機髒污、洗碗槽下櫃破損、下擋板破裂" author="" nodeid="node76" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" title="廚房-洗碗槽" tilt="-2.25" url="{node75}" skinid="ht_node" pan="-161.72" description="" target="$fwd"/>
+      <hotspot id="Point03" title="洗衣間出口" tilt="-1.77" url="{node74}" skinid="ht_node" pan="-264.7" description="" target="$fwd"/>
+      <hotspot id="Point06" title="櫥櫃板變形脫落" tilt="-30.38" url="" skinid="ht_info" pan="-200.17" description="甘蔗板經年累月受潮後變形，呂姐同意拆除。" target=""/>
+      <hotspot id="Point07" title="壁癌" tilt="-2.66" url="images/image-1.jpeg" skinid="ht_image" pan="-325.89" description="受潮壁癌區域" target=""/>
+      <hotspot id="Point08" title="櫥櫃下護板破損" tilt="-36.01" url="images/a_14.jpeg" skinid="ht_image" pan="-155.2" description="會使用簡易方式封住破損區域，避免蟑螂爬進爬出。" target=""/>
+      <hotspot id="Point09" title="廚房冷氣:不使用，避免開機故障。" tilt="42.24" url="" skinid="ht_info" pan="-85.6" description="冷氣機已經很久沒有使用，為避免機板受潮後開機短路損壞，我們會封住此冷氣，避免誤觸開關使用。" target=""/>
+      <hotspot id="Point01" title="抽油煙機插座無保護" tilt="19.65" url="" skinid="ht_info" pan="-201.4" description="" target=""/>
+      <hotspot id="Point04" title="洗碗槽下櫃損壞、落水管變形阻塞" tilt="-17.51" url="" skinid="ht_info" pan="-144.8" description="需更換整組落水管以及旁支水管，下方水管出口要封阻，以免蟑螂從外部爬入室內。" target=""/>
+      <hotspot id="Point05" title="一樓樓梯口" tilt="-1.44" url="{node97}" skinid="ht_node" pan="-64.16" description="" target="$fwd"/>
+      <hotspot id="Point10" title="瓦斯爐髒污近無法復原" tilt="-18.73" url="images/IMG_1135.jpeg" skinid="ht_image" pan="-200.74" description="" target=""/>
+      <hotspot id="Point11" title="排油煙機卡油垢，亦無法找到符合櫥櫃尺寸的替代品" tilt="-1.21" url="images/IMG_1079.jpeg" skinid="ht_image" pan="-202.45" description="" target=""/>
+    </hotspots>
+    <media>
+      <image fov="35.740" handcursor="0" roty="-15.457" tilt="14.924" rotx="1.968" rotz="3.734" width="4752" height="3168" stretch="1.209" id="Element01" popbackmode="0" popoutscaling="100" pan="163.819" hidepinned="0" clickmode="0">
+        <source url="media/_a1.jpeg"/>
+      </image>
+      <image fov="27.905" handcursor="0" roty="24.914" tilt="-24.999" rotx="-20.140" rotz="13.229" width="4752" height="3168" stretch="1.110" id="Element02" popbackmode="0" popoutscaling="100" pan="-149.878" hidepinned="0" clickmode="0">
+        <source url="media/_a5.jpeg"/>
+      </image>
+    </media>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node75">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-80.3284">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:27" altitude="0.00" longitude="" info="" comment="" title="廚房-洗碗槽" tags="" heading="-80.3284" latitude="" description="插座故障積油污、木質飾條破損（呂姐同意拆除）、烘碗機封存不使用。" author="" nodeid="node75" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="廚房" tilt="-2.13" url="{node76}" skinid="ht_node" pan="-331.38" description="" target="$fwd"/>
+      <hotspot id="Point02" title="插座陳年油汙" tilt="-8.34" url="images/_a1-1.jpeg" skinid="ht_image" pan="-215.54" description="" target=""/>
+      <hotspot id="Point03" title="插座外殼破損" tilt="-2.25" url="images/_a3.jpeg" skinid="ht_image" pan="-248.5" description="" target=""/>
+      <hotspot id="Point04" title="木質飾條腐爛破損，呂姐同意拆除" tilt="-32.72" url="images/_a4.jpeg" skinid="ht_image" pan="-149.45" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node74">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-88.1104">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:27" altitude="0.00" longitude="" info="" comment="" title="洗衣間出口" tags="" heading="-88.1104" latitude="" description="牆面髒污、泡棉膠殘留" author="" nodeid="node74" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="洗衣間" tilt="-2.14" url="{node77}" skinid="ht_node" pan="-187.65" description="" target="$fwd"/>
+      <hotspot id="Point02" title="廚房" tilt="-2.23" url="{node76}" skinid="ht_node" pan="-70.7" description="" target="$fwd"/>
+      <hotspot id="Point03" title="客房" tilt="-3.17" url="{node79}" skinid="ht_node" pan="-281.63" description="" target="$fwd"/>
+      <hotspot id="Point04" title="牆面髒污、黏膠殘留" tilt="-21.12" url="" skinid="ht_info" pan="-351.99" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node77">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="104.839">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 12:12" altitude="0.00" longitude="" info="" comment="" title="洗衣間" tags="" heading="104.839" latitude="" description="記錄交接時全屋況" author="" nodeid="node77" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="洗衣間出口" tilt="-3.73" url="{node74}" skinid="ht_node" pan="-226.5" description="" target="$fwd"/>
+      <hotspot id="Point02" title="後院" tilt="-0.91" url="{node78}" skinid="ht_node" pan="-86.53" description="" target="$fwd"/>
+      <hotspot id="Point03" title="馬達開關外露，有短路風險" tilt="-36.76" url="images/_aa.jpg" skinid="ht_image" pan="-317.79" description="馬達開關外露，有短路風險" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node79">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-95.548">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:27" altitude="0.00" longitude="" info="" comment="" title="客房" tags="" heading="-95.548" latitude="" description="牆面髒污、後院門口上方壁癌、前租客冷氣牆面開孔、插座破損" author="" nodeid="node79" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="後院" tilt="-2.25" url="{node78}" skinid="ht_node" pan="-279.23" description="" target="$fwd"/>
+      <hotspot id="Point02" title="洗衣間出口" tilt="-1.38" url="{node74}" skinid="ht_node" pan="-117.74" description="" target="$fwd"/>
+      <hotspot id="Point03" title="冷氣安裝螺絲與管路開孔、天花板壁癌，" tilt="38.82" url="" skinid="ht_info" pan="-302.3" description="" target=""/>
+      <hotspot id="Point04" title="整面牆面要清除殘膠、重新粉刷" tilt="1.55" url="" skinid="ht_info" pan="-4.41" description="" target=""/>
+    </hotspots>
+    <media>
+      <image fov="97.779" handcursor="0" roty="0.959" tilt="-10.997" rotx="-11.332" rotz="0.663" width="8064" height="6048" stretch="0.880" id="Element01" popbackmode="0" popoutscaling="100" pan="-4.241" hidepinned="0" clickmode="0">
+        <source url="media/IMG_8362.jpeg"/>
+      </image>
+      <image fov="41.436" handcursor="0" roty="5.628" tilt="35.407" rotx="4.498" rotz="-11.975" width="8064" height="6048" stretch="1.053" id="Element02" popbackmode="0" popoutscaling="100" pan="51.048" hidepinned="0" clickmode="0">
+        <source url="media/IMG_8367.jpeg"/>
+      </image>
+    </media>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node78">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="135.559">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:28" altitude="0.00" longitude="" info="" comment="" title="後院" tags="" heading="135.559" latitude="" description="地磚間隙長出植物，不能拔除以免破壞地磚、牆面殘留冷氣安裝時鑽孔" author="" nodeid="node78" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="客房" tilt="-1.26" url="{node79}" skinid="ht_node" pan="-209.49" description="" target="$fwd"/>
+      <hotspot id="Point02" title="洗衣間" tilt="1.42" url="{node77}" skinid="ht_node" pan="-260.73" description="" target="$fwd"/>
+      <hotspot id="Point03" title="樹根" tilt="-43.42" url="images/_3.jpeg" skinid="ht_image" pan="-238.74" description="樹根盤支在地磚底下，無法拔除，以免破壞地磚。&#xa;日後採切除方式但不斷根。" target=""/>
+      <hotspot id="Point04" title="室外機安裝孔洞（已拆除）" tilt="53.35" url="images/a.jpeg" skinid="ht_image" pan="-197.98" description="日後會提高室內壁癌發生機率（牆壁防水層破壞，雨水經由孔洞滲入室內牆壁）" target=""/>
+      <hotspot id="Point05" title="室外機拆除後遺留螺絲孔與管道孔" tilt="34.42" url="" skinid="ht_info" pan="-221.48" description="日後會提高室內壁癌發生機率（牆壁防水層破壞，雨水經由孔洞滲入室內牆壁）" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node80">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="271.039">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:47" altitude="0.00" longitude="" info="" comment="" title="2F樓梯間" tags="2F" heading="271.039" latitude="" description="記錄交接時全屋況" author="" nodeid="node80" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" title="B201" tilt="-0.43" url="{node81}" skinid="ht_node" pan="-99.25" description="" target="$fwd"/>
+      <hotspot id="Point03" title="B202" tilt="-2.46" url="{node84}" skinid="ht_node" pan="-255.11" description="" target="$fwd"/>
+      <hotspot id="Point04" title="3F樓梯間" tilt="12.85" url="{node86}" skinid="ht_node" pan="-160.57" description="" target="$fwd"/>
+      <hotspot id="Point01" title="一樓樓梯口" tilt="-21.3" url="{node97}" skinid="ht_node" pan="-185.7" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node81">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="132.041">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:50" altitude="0.00" longitude="" info="" comment="" title="B201" tags="2F" heading="132.041" latitude="" description="" author="" nodeid="node81" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="2F樓梯間" tilt="-4.13" url="{node80}" skinid="ht_node" pan="-81.26" description="" target="$fwd"/>
+      <hotspot id="Point02" title="B201陽台" tilt="-11.08" url="{node82}" skinid="ht_node" pan="-233.93" description="" target="$fwd"/>
+      <hotspot id="Point03" title="B201浴室" tilt="-0.74" url="{node83}" skinid="ht_node" pan="-160.51" description="" target="$fwd"/>
+      <hotspot id="Point04" title="輕微壁癌，疑似屋頂滲漏" tilt="26.85" url="" skinid="ht_info" pan="-282.56" description="應是由頂樓經年累月滲水導致，等頂樓防水工程完善後，應不會再發生。" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node82">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="179.708">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:53" altitude="0.00" longitude="" info="" comment="" title="B201陽台" tags="2F" heading="179.708" latitude="" description="燈具旁疑似偵測器燒毀" author="" nodeid="node82" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="B201" tilt="-5.41" url="{node81}" skinid="ht_node" pan="-331.93" description="" target="$fwd"/>
+      <hotspot id="Point02" title="偵測器燒毀已久，日後周邊煙燻區域會重新粉刷。" tilt="86.02" url="images/B201_3.jpeg" skinid="ht_image" pan="-190.23" description="日後周邊煙燻區域會重新粉刷。" target=""/>
+      <hotspot id="Point03" title="往上看以獲取防盜器燒毀狀況。" tilt="8.88" url="" skinid="ht_info" pan="-352.25" description="看似已經燒毀很久了。" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node83">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="207.054">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:52" altitude="0.00" longitude="" info="" comment="" title="B201浴室" tags="2F" heading="207.054" latitude="" description="紗窗破損" author="" nodeid="node83" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="B201" tilt="-1.26" url="{node81}" skinid="ht_node" pan="-259.81" description="" target="$fwd"/>
+      <hotspot id="Point02" title="紗窗破損，無法拆卸，前租客使用補丁修復" tilt="20.42" url="" skinid="ht_info" pan="-125.64" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node84">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-92.3729">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:48" altitude="0.00" longitude="" info="" comment="" title="B202" tags="2F" heading="-92.3729" latitude="" description="部分牆面髒污" author="" nodeid="node84" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" title="B202陽台" tilt="0.39" url="{node85}" skinid="ht_node" pan="-237.88" description="" target="$fwd"/>
+      <hotspot id="Point01" title="2F樓梯間" tilt="-5.8" url="{node80}" skinid="ht_node" pan="-81.12" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node85">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-121.973">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:49" altitude="0.00" longitude="" info="" comment="" title="B202陽台" tags="2F" heading="-121.973" latitude="" description="紗窗破損" author="" nodeid="node85" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="B202" tilt="-0.27" url="{node84}" skinid="ht_node" pan="-98.83" description="" target="$fwd"/>
+      <hotspot id="Point02" title="紗窗破損" tilt="4.6" url="" skinid="ht_info" pan="-201.21" description="" target=""/>
+      <hotspot id="Point03" title="紗窗破損" tilt="-4.99" url="" skinid="ht_info" pan="-327.64" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node86">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="157.77">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:35" altitude="0.00" longitude="" info="" comment="" title="3F樓梯間" tags="3F" heading="157.77" latitude="" description="記錄交接時全屋況" author="" nodeid="node86" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="2F樓梯間" tilt="-13.96" url="{node80}" skinid="ht_node" pan="-298.76" description="" target="$fwd"/>
+      <hotspot id="Point02" title="V301" tilt="-2.55" url="{node90}" skinid="ht_node" pan="-208.54" description="" target="$fwd"/>
+      <hotspot id="Point03" title="V302" tilt="-0.89" url="{node91}" skinid="ht_node" pan="-6.72" description="" target="$fwd"/>
+      <hotspot id="Point04" title="4F樓梯間" tilt="12.44" url="{node95}" skinid="ht_node" pan="-269.95" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node90">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="172.832">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:13" altitude="0.00" longitude="" info="" comment="" title="V301" tags="3F" heading="172.832" latitude="" description="天花板壁癌（處理中）" author="" nodeid="node90" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="3F樓梯間" tilt="-3.66" url="{node86}" skinid="ht_node" pan="-50.83" description="" target="$fwd"/>
+      <hotspot id="Point02" title="V301浴室" tilt="0.74" url="{node88}" skinid="ht_node" pan="-140.44" description="" target="$fwd"/>
+      <hotspot id="Point03" title="V301陽台" tilt="-0.29" url="{node87}" skinid="ht_node" pan="-191.45" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node88">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-42.6912">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:12" altitude="0.00" longitude="" info="" comment="" title="V301浴室" tags="3F" heading="-42.6912" latitude="" description="記錄交接時全屋況" author="" nodeid="node88" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="V301" tilt="-1.13" url="{node90}" skinid="ht_node" pan="-157.98" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node87">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-160.117">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/8 16:10" altitude="0.00" longitude="" info="" comment="" title="V301陽台" tags="3F" heading="-160.117" latitude="" description="天花板壁癌" author="" nodeid="node87" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="V301" tilt="-2.21" url="{node90}" skinid="ht_node" pan="-289.19" description="" target="$fwd"/>
+      <hotspot id="Point02" title="壁癌破損" tilt="59.06" url="images/301c.jpeg" skinid="ht_image" pan="-347.72" description="" target=""/>
+      <hotspot id="Point05" title="天花板壁癌" tilt="41.69" url="images/301c-1.jpeg" skinid="ht_image" pan="-40.6" description="" target=""/>
+      <hotspot id="Point04" title="天花板壁癌" tilt="84.26" url="images/301f.jpeg" skinid="ht_image" pan="-250.36" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node91">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-266.301">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:36" altitude="0.00" longitude="" info="" comment="" title="V302" tags="3F" heading="-266.301" latitude="" description="記錄交接時全屋況" author="" nodeid="node91" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="3F樓梯間" tilt="-5.52" url="{node86}" skinid="ht_node" pan="-267.62" description="" target="$fwd"/>
+      <hotspot id="Point02" title="V302陽台" tilt="-3.37" url="{node92}" skinid="ht_node" pan="-47.14" description="" target="$fwd"/>
+      <hotspot id="Point03" title="V302浴室" tilt="1.66" url="{node93}" skinid="ht_node" pan="-99.09" description="" target="$fwd"/>
+      <hotspot id="Point04" title="窗簾上方不明用途鑽孔" tilt="16.04" url="images/302 .jpg" skinid="ht_image" pan="-46.68" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node92">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-218.478">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:39" altitude="0.00" longitude="" info="" comment="" title="V302陽台" tags="3F" heading="-218.478" latitude="" description="紗窗破損" author="" nodeid="node92" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="V302" tilt="-0.78" url="{node91}" skinid="ht_node" pan="-194.86" description="" target="$fwd"/>
+      <hotspot id="Point02" title="紗窗破損" tilt="6.06" url="images/302b.jpeg" skinid="ht_image" pan="-47.13" description="" target=""/>
+      <hotspot id="Point03" title="紗窗破損" tilt="2.21" url="" skinid="ht_info" pan="-299.86" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node93">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node93/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="43.2585">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:38" altitude="0.00" longitude="" info="" comment="" title="V302浴室" tags="3F" heading="43.2585" latitude="" description="" author="" nodeid="node93" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="V302" tilt="-2.31" url="{node91}" skinid="ht_node" pan="-296.77" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node94">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node94/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-238.748">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:55" altitude="0.00" longitude="" info="" comment="" title="後頂樓霧台" tags="ROOF" heading="-238.748" latitude="" description="" author="" nodeid="node94" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="4F樓梯間" tilt="1.22" url="{node95}" skinid="ht_node" pan="-225.78" description="" target="$fwd"/>
+      <hotspot id="Point02" title="天花板壁癌" tilt="21.16" url="images/1.jpeg" skinid="ht_image" pan="-252.3" description="" target=""/>
+      <hotspot id="Point03" title="天花板壁癌" tilt="17.61" url="images/2.jpeg" skinid="ht_image" pan="-276.4" description="" target=""/>
+      <hotspot id="Point04" title="女兒牆漆面剝落，容易滲水導致下樓層天花板壁癌" tilt="-8.65" url="images/3.jpeg" skinid="ht_image" pan="-64.92" description="" target=""/>
+      <hotspot id="Point05" title="天花板壁癌" tilt="19.67" url="images/3.jpeg" skinid="ht_image" pan="-208.58" description="" target=""/>
+      <hotspot id="Point06" title="軟水機管線區域" tilt="-6.68" url="images/ 2025-06-29 10.21.50.png" skinid="ht_image" pan="-269.89" description="整理前" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node95">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node95/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="32.652">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:31" altitude="0.00" longitude="" info="" comment="" title="4F樓梯間" tags="ROOF" heading="32.652" latitude="" description="" author="" nodeid="node95" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="3F樓梯間" tilt="-33" url="{node86}" skinid="ht_node" pan="-74.72" description="" target="$fwd"/>
+      <hotspot id="Point02" title="頂樓前露台" tilt="-0.63" url="{node96}" skinid="ht_node" pan="-319.84" description="" target="$fwd"/>
+      <hotspot id="Point03" title="後頂樓霧台" tilt="0.84" url="{node94}" skinid="ht_node" pan="-146.64" description="" target="$fwd"/>
+      <hotspot id="Point04" title="前租客拆下的門暫時移至戶外存放" tilt="-9.29" url="" skinid="ht_info" pan="-38.09" description="待防水工程人員八月來施工時一併帶走交付呂姐" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <panorama id="node96">
+    <input levelbiashidpi="1.000" overlap="1" width="2976" height="2976" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node96/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510">
+      <level preload="0" width="2976" height="2976" predecode="0"/>
+      <level preload="0" width="1488" height="1488" predecode="0"/>
+      <level preload="0" width="744" height="744" predecode="0"/>
+      <level preload="1" width="372" height="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-287.093">
+      <start fov="130" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="0.5"/>
+      <max fov="130" tilt="90" fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="" customnodeid="" datetime="2025/6/13 11:55" altitude="0.00" longitude="" info="" comment="" title="頂樓前露台" tags="ROOF" heading="-287.093" latitude="" description="" author="" nodeid="node96" source=""/>
+    <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" enabled="1" height="20" bordercolor="0x000000" border="1" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" background="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" title="4F樓梯間" tilt="-1.83" url="{node95}" skinid="ht_node" pan="-129.63" description="" target="$fwd"/>
+      <hotspot id="Point02" title="壁癌" tilt="22.49" url="images/image.jpeg" skinid="ht_image" pan="-70.28" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomin="0" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" enabled="1" zoomout="0" zoomoutpause="1" zoomspeed="2" blendtime="1" zoomfov="40" delay="none" type="crossdissolve"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1" simulatemass="1" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="明智街108-1號交接屋況(2025.06)" tags="" description="記錄交接時全屋況" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
