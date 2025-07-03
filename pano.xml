@@ -138,11 +138,11 @@
       <hotspot skinid="ht_image" title="排油煙機卡油垢，亦無法找到符合櫥櫃尺寸的替代品" description="" target="" url="images/IMG_1079.jpeg" pan="-202.28" tilt="-2.42" id="Point11"/>
     </hotspots>
     <media>
-      <image popoutscaling="100" roty="-20.513" width="4752" pan="161.558" popbackmode="0" id="Element01" height="3168" clickmode="0" stretch="1.059" rotx="12.438" rotz="3.455" handcursor="0" hidepinned="0" tilt="14.092" fov="35.588">
-        <source url="media/_a1.jpeg"/>
+      <image popoutscaling="100" roty="-20.510" width="4752" pan="161.560" popbackmode="0" id="Element01" height="3168" clickmode="0" stretch="1.059" rotx="12.440" rotz="3.450" handcursor="0" hidepinned="0" tilt="14.090" fov="35.590">
+        <source url="media/k_a1.jpeg"/>
       </image>
-      <image popoutscaling="100" roty="30.825" width="4752" pan="-150.214" popbackmode="0" id="Element02" height="3168" clickmode="0" stretch="1.033" rotx="-23.287" rotz="13.608" handcursor="0" hidepinned="0" tilt="-24.911" fov="29.622">
-        <source url="media/_a5.jpeg"/>
+      <image popoutscaling="100" roty="30.820" width="4752" pan="-150.210" popbackmode="0" id="Element02" height="3168" clickmode="0" stretch="1.033" rotx="-23.290" rotz="13.610" handcursor="0" hidepinned="0" tilt="-24.910" fov="29.620">
+        <source url="media/k_a5.jpeg"/>
       </image>
     </media>
     <transition blendtime="1" zoomfov="40" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" delay="none" zoomspeed="2" enabled="1" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
@@ -260,8 +260,8 @@
       <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot skinid="ht_node" title="後院" description="" target="$fwd" url="{node78}" pan="-279.23" tilt="-2.25" id="Point01"/>
       <hotspot skinid="ht_node" title="洗衣間出口" description="" target="$fwd" url="{node74}" pan="-117.74" tilt="-1.38" id="Point02"/>
-      <hotspot skinid="ht_info" title="冷氣安裝螺絲與管路開孔、天花板壁癌，" description="" target="" url="" pan="-302.3" tilt="38.82" id="Point03"/>
-      <hotspot skinid="ht_info" title="整面牆面要清除殘膠、重新粉刷" description="" target="" url="" pan="-4.41" tilt="1.55" id="Point04"/>
+      <hotspot skinid="ht_info" title="冷氣安裝螺絲與管路開孔、天花板壁癌" description="冷氣安裝螺絲與管路開孔、天花板壁癌" target="" url="" pan="-302.56" tilt="38.84" id="Point03"/>
+      <hotspot skinid="ht_info" title="整面牆面要清除殘膠、重新粉刷" description="整面牆面要清除殘膠、重新粉刷" target="" url="" pan="-4.41" tilt="1.55" id="Point04"/>
     </hotspots>
     <media>
       <image popoutscaling="100" roty="0.959" width="8064" pan="-4.241" popbackmode="0" id="Element01" height="6048" clickmode="0" stretch="0.880" rotx="-11.332" rotz="0.663" handcursor="0" hidepinned="0" tilt="-10.997" fov="97.779">
