@@ -18,13 +18,13 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label borderalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" enabled="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
-      <hotspot pan="-359.06" title="插座破損" tilt="-22.46" description="" url="images/5-1.jpeg" target="" skinid="ht_image" id="Point03"/>
-      <hotspot pan="-24.6" title="牆面壁癌" tilt="-19.45" description="" url="images/2-1.jpeg" target="" skinid="ht_image" id="Point04"/>
-      <hotspot pan="-51.03" title="牆面壁癌" tilt="-11.42" description="" url="images/3-3.jpeg" target="" skinid="ht_image" id="Point05"/>
-      <hotspot pan="-69.54" title="牆面壁癌" tilt="-21.96" description="" url="images/d.jpeg" target="" skinid="ht_image" id="Point06"/>
-      <hotspot pan="-253.02" title="牆面壁癌" tilt="-0.77" description="" url="images/2-2.jpeg" target="" skinid="ht_image" id="Point07"/>
-      <hotspot pan="-252.1" title="牆面壁癌" tilt="-16.92" description="" url="images/3-4.jpeg" target="" skinid="ht_image" id="Point08"/>
-      <hotspot pan="-254.61" title="牆面壁癌" tilt="-26.99" description="" url="images/1-3.jpeg" target="" skinid="ht_image" id="Point09"/>
+      <hotspot pan="-359.06" title="插座破損" tilt="-22.46" description="" url="images/liv_s_5.jpeg" target="" skinid="ht_image" id="Point03"/>
+      <hotspot pan="-24.6" title="牆面壁癌" tilt="-19.45" description="" url="images/liv_w_2.jpeg" target="" skinid="ht_image" id="Point04"/>
+      <hotspot pan="-51.03" title="牆面壁癌" tilt="-11.42" description="" url="images/liv_w_3.jpeg" target="" skinid="ht_image" id="Point05"/>
+      <hotspot pan="-69.54" title="牆面壁癌" tilt="-21.96" description="" url="images/liv_w_d.jpeg" target="" skinid="ht_image" id="Point06"/>
+      <hotspot pan="-253.02" title="牆面壁癌" tilt="-0.61" description="" url="images/liv_2.jpeg" target="" skinid="ht_image" id="Point07"/>
+      <hotspot pan="-252.1" title="牆面壁癌" tilt="-16.92" description="" url="images/liv_3.jpeg" target="" skinid="ht_image" id="Point08"/>
+      <hotspot pan="-254.61" title="牆面壁癌" tilt="-26.99" description="" url="images/liv_1.jpeg" target="" skinid="ht_image" id="Point09"/>
       <hotspot pan="-71.14" title="一樓樓梯口" tilt="-0.61" description="" url="{node97}" target="$fwd" skinid="ht_node" id="Point01"/>
       <hotspot pan="-191.57" title="殘膠清理" tilt="-1.67" description="" url="" target="" skinid="ht_info" id="Point02"/>
     </hotspots>
@@ -127,8 +127,8 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-161.72" title="廚房-洗碗槽" tilt="-2.25" description="" url="{node75}" target="$fwd" skinid="ht_node" id="Point02"/>
       <hotspot pan="-264.7" title="洗衣間出口" tilt="-1.77" description="" url="{node74}" target="$fwd" skinid="ht_node" id="Point03"/>
-      <hotspot pan="-200.17" title="櫥櫃板變形脫落" tilt="-30.38" description="許多門板經年累月受潮後變形，呂姐同意拆除。" url="" target="" skinid="ht_info" id="Point06"/>
-      <hotspot pan="-325.89" title="壁癌" tilt="-2.66" description="受潮壁癌區域" url="images/image-1.jpeg" target="" skinid="ht_image" id="Point07"/>
+      <hotspot pan="-200.17" title="櫥櫃板變形脫落" tilt="-30.38" description="許多門板經年累月受潮後變形且脫落，呂姐同意拆除。" url="" target="" skinid="ht_info" id="Point06"/>
+      <hotspot pan="-325.89" title="壁癌" tilt="-2.66" description="受潮壁癌區域" url="images/kc_w.jpeg" target="" skinid="ht_image" id="Point07"/>
       <hotspot pan="-155.2" title="櫥櫃下護板破損" tilt="-36.01" description="會使用簡易方式封住破損區域，避免蟑螂爬進爬出。" url="images/a_14.jpeg" target="" skinid="ht_image" id="Point08"/>
       <hotspot pan="-85.6" title="廚房冷氣:不使用，避免開機故障。" tilt="42.24" description="冷氣機已經很久沒有使用，為避免機板受潮後開機短路損壞，我們會封住此冷氣，避免誤觸開關使用。" url="" target="" skinid="ht_info" id="Point09"/>
       <hotspot pan="-215.91" title="抽油煙機插座無保護" tilt="13.09" description="" url="" target="" skinid="ht_info" id="Point01"/>
@@ -231,7 +231,7 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-226.5" title="洗衣間出口" tilt="-3.73" description="" url="{node74}" target="$fwd" skinid="ht_node" id="Point01"/>
       <hotspot pan="-86.53" title="後院" tilt="-0.91" description="" url="{node78}" target="$fwd" skinid="ht_node" id="Point02"/>
-      <hotspot pan="-317.79" title="馬達開關外露，有短路風險" tilt="-36.76" description="馬達開關外露，有短路風險" url="images/_aa.jpg" target="" skinid="ht_image" id="Point03"/>
+      <hotspot pan="-317.79" title="馬達開關外露，有短路風險" tilt="-36.76" description="馬達開關外露，有短路風險" url="images/out_aa.jpg" target="" skinid="ht_image" id="Point03"/>
     </hotspots>
     <media/>
     <transition blendtime="1" delay="none" zoomfov="40" softedge="0" zoomafteroutfov="40" enabled="1" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomafterinfov="140"/>
@@ -297,8 +297,8 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-209.49" title="客房" tilt="-1.26" description="" url="{node79}" target="$fwd" skinid="ht_node" id="Point01"/>
       <hotspot pan="-260.73" title="洗衣間" tilt="1.42" description="" url="{node77}" target="$fwd" skinid="ht_node" id="Point02"/>
-      <hotspot pan="-238.74" title="樹根" tilt="-43.42" description="樹根盤支在地磚底下，無法拔除，以免破壞地磚。&#xa;日後採切除方式但不斷根。" url="images/_3.jpeg" target="" skinid="ht_image" id="Point03"/>
-      <hotspot pan="-197.98" title="室外機安裝孔洞（已拆除）" tilt="53.35" description="日後會提高室內壁癌發生機率（牆壁防水層破壞，雨水經由孔洞滲入室內牆壁）" url="images/a.jpeg" target="" skinid="ht_image" id="Point04"/>
+      <hotspot pan="-238.74" title="樹根" tilt="-43.42" description="樹根盤支在地磚底下，無法拔除，以免破壞地磚。&#xa;日後採切除方式但不斷根。" url="images/1F_out_3.jpeg" target="" skinid="ht_image" id="Point03"/>
+      <hotspot pan="-198.24" title="室外機安裝孔洞（已拆除）" tilt="53.42" description="日後會提高室內壁癌發生機率（牆壁防水層破壞，雨水經由孔洞滲入室內牆壁）" url="images/1F_condition_before.jpeg" target="" skinid="ht_image" id="Point04"/>
       <hotspot pan="-221.48" title="室外機拆除後遺留螺絲孔與管道孔" tilt="34.42" description="日後會提高室內壁癌發生機率（牆壁防水層破壞，雨水經由孔洞滲入室內牆壁）" url="" target="" skinid="ht_info" id="Point05"/>
     </hotspots>
     <media/>
@@ -387,7 +387,7 @@
       <label borderalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" enabled="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-331.93" title="B201" tilt="-5.41" description="" url="{node81}" target="$fwd" skinid="ht_node" id="Point01"/>
-      <hotspot pan="-190.23" title="偵測器燒毀已久，日後周邊煙燻區域會重新粉刷。" tilt="86.02" description="日後周邊煙燻區域會重新粉刷。" url="images/B201_3.jpeg" target="" skinid="ht_image" id="Point02"/>
+      <hotspot pan="-190.23" title="偵測器燒毀已久，日後周邊煙燻區域會重新粉刷。" tilt="86.02" description="日後周邊煙燻區域會重新粉刷。" url="images/smoke_3.jpeg" target="" skinid="ht_image" id="Point02"/>
       <hotspot pan="-352.25" title="往上看以獲取防盜器燒毀狀況。" tilt="8.88" description="看似已經燒毀很久了。" url="" target="" skinid="ht_info" id="Point03"/>
     </hotspots>
     <media/>
@@ -587,9 +587,9 @@
       <label borderalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" enabled="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-289.19" title="V301" tilt="-2.21" description="" url="{node90}" target="$fwd" skinid="ht_node" id="Point01"/>
-      <hotspot pan="-347.72" title="壁癌破損" tilt="59.06" description="" url="images/301c.jpeg" target="" skinid="ht_image" id="Point02"/>
-      <hotspot pan="-40.6" title="天花板壁癌" tilt="41.69" description="" url="images/301c-1.jpeg" target="" skinid="ht_image" id="Point05"/>
-      <hotspot pan="-250.36" title="天花板壁癌" tilt="84.26" description="" url="images/301f.jpeg" target="" skinid="ht_image" id="Point04"/>
+      <hotspot pan="-347.72" title="壁癌破損" tilt="59.06" description="" url="images/301_front_c.jpeg" target="" skinid="ht_image" id="Point02"/>
+      <hotspot pan="-40.6" title="天花板壁癌" tilt="41.69" description="" url="images/301_out_c.jpeg" target="" skinid="ht_image" id="Point05"/>
+      <hotspot pan="-250.36" title="天花板壁癌" tilt="84.26" description="" url="images/301_out_f.jpeg" target="" skinid="ht_image" id="Point04"/>
     </hotspots>
     <media/>
     <transition blendtime="1" delay="none" zoomfov="40" softedge="0" zoomafteroutfov="40" enabled="1" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomafterinfov="140"/>
@@ -619,7 +619,7 @@
       <hotspot pan="-267.62" title="3F樓梯間" tilt="-5.52" description="" url="{node86}" target="$fwd" skinid="ht_node" id="Point01"/>
       <hotspot pan="-47.14" title="V302陽台" tilt="-3.37" description="" url="{node92}" target="$fwd" skinid="ht_node" id="Point02"/>
       <hotspot pan="-99.09" title="V302浴室" tilt="1.66" description="" url="{node93}" target="$fwd" skinid="ht_node" id="Point03"/>
-      <hotspot pan="-46.68" title="窗簾上方不明用途鑽孔" tilt="16.04" description="" url="images/302 .jpg" target="" skinid="ht_image" id="Point04"/>
+      <hotspot pan="-46.68" title="窗簾上方不明用途鑽孔" tilt="16.04" description="" url="images/302_a.jpg" target="" skinid="ht_image" id="Point04"/>
     </hotspots>
     <media/>
     <transition blendtime="1" delay="none" zoomfov="40" softedge="0" zoomafteroutfov="40" enabled="1" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomafterinfov="140"/>
@@ -647,7 +647,7 @@
       <label borderalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" enabled="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-194.86" title="V302" tilt="-0.78" description="" url="{node91}" target="$fwd" skinid="ht_node" id="Point01"/>
-      <hotspot pan="-47.13" title="紗窗破損" tilt="6.06" description="" url="images/302b.jpeg" target="" skinid="ht_image" id="Point02"/>
+      <hotspot pan="-47.13" title="紗窗破損" tilt="6.06" description="" url="images/302_b.jpeg" target="" skinid="ht_image" id="Point02"/>
       <hotspot pan="-299.86" title="紗窗破損" tilt="2.21" description="" url="" target="" skinid="ht_info" id="Point03"/>
     </hotspots>
     <media/>
@@ -703,11 +703,11 @@
       <label borderalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" enabled="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-225.78" title="4F樓梯間" tilt="1.22" description="" url="{node95}" target="$fwd" skinid="ht_node" id="Point01"/>
-      <hotspot pan="-252.3" title="天花板壁癌" tilt="21.16" description="" url="images/1.jpeg" target="" skinid="ht_image" id="Point02"/>
-      <hotspot pan="-276.4" title="天花板壁癌" tilt="17.61" description="" url="images/2.jpeg" target="" skinid="ht_image" id="Point03"/>
-      <hotspot pan="-64.92" title="女兒牆漆面剝落，容易滲水導致下樓層天花板壁癌" tilt="-8.65" description="" url="images/3.jpeg" target="" skinid="ht_image" id="Point04"/>
-      <hotspot pan="-208.58" title="天花板壁癌" tilt="19.67" description="" url="images/3.jpeg" target="" skinid="ht_image" id="Point05"/>
-      <hotspot pan="-269.89" title="軟水機管線區域" tilt="-6.68" description="整理前" url="images/ 2025-06-29 10.21.50.png" target="" skinid="ht_image" id="Point06"/>
+      <hotspot pan="-252.3" title="天花板壁癌" tilt="21.16" description="" url="images/r_r_1.jpeg" target="" skinid="ht_image" id="Point02"/>
+      <hotspot pan="-276.4" title="天花板壁癌" tilt="17.61" description="" url="images/r_r_2.jpeg" target="" skinid="ht_image" id="Point03"/>
+      <hotspot pan="-64.92" title="女兒牆漆面剝落，容易滲水導致下樓層天花板壁癌" tilt="-8.65" description="" url="images/r_r_3.jpeg" target="" skinid="ht_image" id="Point04"/>
+      <hotspot pan="-208.58" title="天花板壁癌" tilt="19.67" description="" url="images/r_r_4.jpeg" target="" skinid="ht_image" id="Point05"/>
+      <hotspot pan="-269.89" title="軟水機管線區域" tilt="-6.68" description="整理前" url="images/r_r_5.png" target="" skinid="ht_image" id="Point06"/>
     </hotspots>
     <media/>
     <transition blendtime="1" delay="none" zoomfov="40" softedge="0" zoomafteroutfov="40" enabled="1" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomafterinfov="140"/>
@@ -765,7 +765,7 @@
       <label borderalpha="1" bordercolor="0x000000" backgroundalpha="1" border="1" background="1" enabled="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot pan="-129.63" title="4F樓梯間" tilt="-1.83" description="" url="{node95}" target="$fwd" skinid="ht_node" id="Point01"/>
-      <hotspot pan="-70.28" title="壁癌" tilt="22.49" description="" url="images/image.jpeg" target="" skinid="ht_image" id="Point02"/>
+      <hotspot pan="-70.28" title="壁癌" tilt="22.49" description="" url="images/r_f_a.jpeg" target="" skinid="ht_image" id="Point02"/>
     </hotspots>
     <media/>
     <transition blendtime="1" delay="none" zoomfov="40" softedge="0" zoomafteroutfov="40" enabled="1" zoomoutpause="1" zoomout="0" zoomin="0" blendcolor="0x000000" zoomspeed="2" type="crossdissolve" zoomafterinfov="140"/>
